@@ -1,0 +1,22 @@
+.signUp_form{
+    background-image: url('../../Assets/image/bg2.avif');
+    background-size: cover;
+    background-position:right;
+}
+.signUp_container{
+     background-image: url('../../Assets/image/chatBg.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+.form-control {
+    width: 100% !important;
+background-color: light-dark(rgb(232, 240, 254), rgba(70, 90, 126, 0.4)) !important;
+}
+.react-tel-input {
+    border: 2px solid black !important;
+    border-radius: 5px !important;
+}
+.form_input{
+    background-color: light-dark(rgb(232, 240, 254), rgba(70, 90, 126, 0.4)) !important;
+}
